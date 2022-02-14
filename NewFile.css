@@ -1,0 +1,182 @@
+@charset "ISO-8859-1";
+body{
+ color: #666666;
+     font-size: 14px;
+     font-family: 'Poppins', sans-serif;
+     line-height: 1.80857;
+     font-weight: normal;
+     overflow-x: hidden;
+	
+}
+.header
+{
+width: 100%;
+height: 70px;
+position:absolute;
+top: 0px;
+left:0px;
+right: 0px;
+}
+
+#san{
+	font-size: 50px;
+	font-weight:bold;
+	top:20px;
+	color: black;
+	}
+	
+	
+	
+#sam{
+	font-size:50px;
+	top:300px;
+	left:50px;
+	color: black;
+	}
+
+	
+	
+#s1{
+	font-size:90px;
+	top:360px;
+	left:50px;
+	color: green;
+	}
+	
+ h1, h2, h3, h4, h5, h6 {
+     letter-spacing: 0;
+     font-weight: normal;
+     position: relative;
+     padding: 0 0 10px 0;
+     font-weight: normal;
+     line-height: normal;
+     color: #111111;
+     margin: 0 ;
+}
+
+#b1
+{
+	height: 50px;
+	width: 100px;
+	top:40px;
+	left: 58%;
+	color:black;
+	font-size: 20px;
+}
+#b2
+{
+	height: 50px;
+	width: 100px;
+	top:40px;
+	left: 65%;
+	color:black;
+	font-size: 20px;
+}
+#b3
+{
+	height: 50px;
+	width: 100px;
+	top:40px;
+	left: 72%;
+	color:black;
+	font-size: 20px;
+}
+#b4
+{
+	height: 50px;
+	width: 100px;
+	top:40px;
+	left: 81%;
+	color:black;
+	font-size: 20px;
+} 
+
+.photo
+{
+width:100%; 
+ height:180px; 
+ top:80px; 
+ position:absolute; 
+ left:0px; 
+ right:0px; 
+ 	
+}
+
+#p1
+{
+	height:500px;
+	position:absolute;
+	top:150px;
+	left:50%;
+	
+}
+p {
+     margin: 0px;
+     font-weight: 300;
+     font-size: 15px;
+     line-height: 24px;
+}
+
+.box{
+	height: 400px;
+	width: 94%;
+	position: absolute;
+	top: 730px;
+	left: 30px;		
+}
+
+
+#text{
+	text-align: left;
+	width:68%;
+	position: absolute;
+	
+	
+	
+}
+
+#img1{
+	height: 350px;
+	width: 386px;
+	position: absolute;
+	top:20px;
+	left: 70%;	
+}
+
+.con{
+	    height:300px;
+	    width:100%;
+	    background: #3b3b3b;
+	    position: absolute;
+	    top:1200px;
+	    left:0px;
+}
+#green{
+	    height:50px;
+	    width:100%;
+	    background-color: #428713;
+	    position: absolute;
+	    top:1450px;
+	    left:0px;
+}
+#address{
+	position: absolute;
+	 top:50px;
+	 left: 30px;
+	 color: white;
+	 font-weight: bold;
+	}
+	
+#add{
+	position: absolute;
+	 top:50px;
+	 left:40%;
+	 font-weight: bold;
+	 	}
+
+#com{
+	position: absolute;
+	 top:50px;
+	 left:70%;
+	 font-weight: bold;
+	 	}
